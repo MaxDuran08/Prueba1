@@ -5,8 +5,8 @@ public class Ejemplo_12_02_2024 {
     public static void main(String[] args) {
 
         // Expresiones aritméticas
-        int num1 = 20;
-        int num2 = 30;
+        int num1 = 10000;
+        int num2 = 30000;
         int suma = num1 + num2;
         int resta = num1 - num2;
         int multiplicacion = num1 * num2;
